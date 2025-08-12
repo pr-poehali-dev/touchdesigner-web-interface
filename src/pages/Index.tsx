@@ -76,7 +76,7 @@ export default function Index() {
         {/* Header */}
         <div className="text-center space-y-4">
           <h1 className="text-4xl font-bold tracking-tight">TouchDesigner Control</h1>
-          <p className="text-muted-foreground text-lg">Минималистичное управление визуальными проектами</p>
+          <p className="text-muted-foreground text-lg">Веб-интерфейс для управления визуальными проектами</p>
           
           <div className="flex items-center justify-center space-x-4">
             <Badge variant={isLiveMode ? "default" : "secondary"} className="px-4 py-2">
